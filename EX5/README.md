@@ -1,7 +1,7 @@
 
 ---
 
-# Smart Campus Monitoring Dashboard (Power BI)
+# Smart Campus Monitoring Dashboard (Power BI) 
 
 ##  Objective
 
