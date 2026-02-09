@@ -3,7 +3,7 @@
 
 # Retail Business Data Visualization (R)
 
-## 📌 Overview
+##  Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on a retail business dataset using **R**.
 It visualizes relationships between **Sales, Profit, Discount, Product Category, Customer Segment, and Region** using multiple graphical techniques.
@@ -16,7 +16,7 @@ The script generates:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **File name:** `6.retail_business.csv`
 
@@ -29,7 +29,7 @@ The dataset is expected to include at least the following columns:
 * `Product_Category`
 * `Customer_Segment`
 
-⚠️ Make sure the file path in the script matches the location of your CSV file.
+ Make sure the file path in the script matches the location of your CSV file.
 
 ---
 
@@ -53,7 +53,7 @@ install.packages("GGally")
 
 ## 📊 Visualizations Generated
 
-### 1️⃣ Pairwise Plot (Parallel Coordinate Style)
+### 1️ Pairwise Plot (Parallel Coordinate Style)
 
 * Uses `ggpairs()` from **GGally**
 * Displays relationships between:
@@ -68,7 +68,7 @@ To understand correlations and patterns across multiple numerical variables.
 
 ---
 
-### 2️⃣ Bubble Chart: Sales vs Profit
+### 2️ Bubble Chart: Sales vs Profit
 
 * X-axis: Sales
 * Y-axis: Profit
@@ -80,7 +80,7 @@ To analyze how discounts and product categories affect profitability.
 
 ---
 
-### 3️⃣ Trellis (Faceted) Plot: Sales vs Profit by Region
+### 3️ Trellis (Faceted) Plot: Sales vs Profit by Region
 
 * Faceted by **Region**
 * Colored by **Customer Segment**
@@ -90,7 +90,7 @@ To compare sales and profit behavior across different regions.
 
 ---
 
-## 🔄 Data Preprocessing
+##  Data Preprocessing
 
 * Converts categorical columns into factors:
 
@@ -102,7 +102,7 @@ This ensures correct grouping and coloring in plots.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open the script in **RStudio**
 2. Update the CSV file path if needed
@@ -111,7 +111,7 @@ This ensures correct grouping and coloring in plots.
 
 ---
 
-## 📈 Output
+##  Output
 
 * Three different visualizations displayed sequentially
 * Useful for business insights and academic EDA assignments
