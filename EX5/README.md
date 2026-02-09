@@ -44,7 +44,7 @@ An **AI-based Smart Campus System** requires a real-time dashboard to:
 
 ---
 
-## 🔄 Data Transformation
+##  Data Transformation
 
 A calculated column is created to evaluate overall academic performance.
 
