@@ -33,7 +33,7 @@ The dataset is expected to include at least the following columns:
 
 ---
 
-## 🛠️ Libraries Used
+##  Libraries Used
 
 The following R packages are required:
 
@@ -51,7 +51,7 @@ install.packages("GGally")
 
 ---
 
-## 📊 Visualizations Generated
+##  Visualizations Generated
 
 ### 1️ Pairwise Plot (Parallel Coordinate Style)
 
