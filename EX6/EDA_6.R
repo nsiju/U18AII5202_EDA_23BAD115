@@ -1,4 +1,4 @@
-print("23bad115_SIUU N")
+print("23bad115_SIJU N")
 
 library(ggplot2)
 library(GGally)
