@@ -3,13 +3,13 @@
 
 # Smart Campus Monitoring Dashboard (Power BI)
 
-## 📌 Objective
+##  Objective
 
 To design an **interactive analytical dashboard** for monitoring key academic and operational metrics such as **attendance, student performance, and resource utilization** using **Power BI**.
 
 ---
 
-## 🧠 Scenario
+##  Scenario
 
 An **AI-based Smart Campus System** requires a real-time dashboard to:
 
@@ -20,13 +20,13 @@ An **AI-based Smart Campus System** requires a real-time dashboard to:
 
 ---
 
-## 🛠️ Tool Used
+##  Tool Used
 
 * **Microsoft Power BI Desktop**
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **File Name:** `5.student_performance.csv`
 
@@ -62,16 +62,16 @@ This column represents the cumulative internal assessment score for each student
 
 ---
 
-## 📊 Dashboard Components
+##  Dashboard Components
 
-### 1️⃣ Title
+### 1️ Title
 
 * **Smart Campus Monitoring Dashboard**
 * Added using a **Text Box** for clear identification.
 
 ---
 
-### 2️⃣ KPI Cards
+### 2️ KPI Cards
 
 * **Average Attendance Percentage**
 * **Average Total Score**
@@ -80,7 +80,7 @@ These KPIs provide quick insights into overall attendance and academic performan
 
 ---
 
-### 3️⃣ Filters (Slicers)
+### 3️ Filters (Slicers)
 
 * **Department**
 * **Semester**
@@ -89,7 +89,7 @@ These slicers allow users to interactively filter all visuals in the dashboard.
 
 ---
 
-### 4️⃣ Performance Visualization
+### 4️ Performance Visualization
 
 * **Clustered Column Chart**
 * Values: Average `Total_Score`
@@ -99,11 +99,11 @@ These slicers allow users to interactively filter all visuals in the dashboard.
   * Semester
   * Subject
 
-🔍 **Drill-Down Enabled** to navigate performance from department level down to subject level.
+ **Drill-Down Enabled** to navigate performance from department level down to subject level.
 
 ---
 
-### 5️⃣ Grade Analysis
+### 5️ Grade Analysis
 
 * **Pie Chart**
 * Legend: `Final_Grade`
@@ -113,7 +113,7 @@ This visual shows the distribution of grades across students.
 
 ---
 
-## ▶️ Procedure Summary
+##  Procedure Summary
 
 1. Open Power BI Desktop and create a new report
 2. Import `5.student_performance.csv` using **Get Data → Text/CSV**
@@ -125,7 +125,7 @@ This visual shows the distribution of grades across students.
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 * Interactive filtering by department and semester
 * Drill-down analysis across multiple academic levels
@@ -134,13 +134,13 @@ This visual shows the distribution of grades across students.
 
 ---
 
-## 📈 Outcome
+##  Outcome
 
 The final dashboard provides a **comprehensive and interactive view** of student attendance and academic performance, supporting efficient monitoring within a smart campus environment.
 
 ---
 
-## 👤 Author
+##  Author
 
 **SIJU N**
 
